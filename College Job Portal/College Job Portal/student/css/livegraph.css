@@ -1,0 +1,54 @@
+/*!
+ * LiveGraph for jQuery v0.0.1
+ * http://github.com/lampieg/livegraph
+ *
+ * Copyright ?2013 lampieg (admin@lampieg.co.uk)
+ * Released under the MIT license
+ */
+
+div.liveGraph div.bars div.bar span { /* MATCHES ALL THE BARS IN THE GRAPH */
+/* rules here will apply to the onbar value... background and borders here will set the borders and background for the entire bar. */
+background: url("diagonals_trans.png");
+background-repeat: repeat;
+color: #fff;
+font-weight: bold;
+font-size: 20px;
+border: none !important;
+border-bottom: 1px #000 solid !important;
+border-top: 2px #000 solid !important;
+}
+div.liveGraph div.bars div[bar="tb3"] span {
+background-color:#0095FF;
+} /* ONLY MATCHES THE FIRST BAR */
+div.liveGraph div.bars div[bar="tb2"] span {
+background-color: #00C4FF;
+} /* ONLY MATCHES THE SECOND BAR */
+div.liveGraph div.bars div[bar="tb1"] span {
+background-color: #001A56;
+} /* ONLY MATCHES THE THIRD BAR */
+/* Other page styling */
+
+
+
+div.content {
+width: 600px;
+background: #fff;
+border-radius: 10px;
+padding: 40px;
+border: rgba(168, 168, 168, 0.11) 2px solid;
+margin: 20px;
+}
+table {
+border-collapse: collapse;
+}
+table, th, td {
+border: 1px solid black;
+padding: 4px;
+}
+thead td {
+font-weight: bold;
+}
+.update-class{display:none !important;}
+.barval{width:50px !important;}
+.barlabel{bottom: -30px !important;
+    margin-left: -15px !important;color:#0866C6;font-weight:600;}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Sancreek';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Sancreek-regular/Sancreek-regular.eot');
+  src: url('/fonts/Sancreek-regular/Sancreek-regular.eot?#iefix') format('embedded-opentype'),
+       local('Sancreek Regular'),
+       local('Sancreek-regular'),
+       url('/fonts/Sancreek-regular/Sancreek-regular.woff2') format('woff2'),
+       url('/fonts/Sancreek-regular/Sancreek-regular.woff') format('woff'),
+       url('../fonts/Sancreek-regular/Sancreek-regular.ttf') format('truetype'),
+       url('/fonts/Sancreek-regular/Sancreek-regular.svg#Sancreek') format('svg');
+}
+

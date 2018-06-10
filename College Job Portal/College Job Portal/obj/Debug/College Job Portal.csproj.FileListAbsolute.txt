@@ -1,0 +1,20 @@
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\csc.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\vbc.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\College Job Portal.dll.config
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\College Job Portal.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\College Job Portal.pdb
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\obj\Debug\College Job Portal.dll
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\obj\Debug\College Job Portal.pdb
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\College Job Portal\College Job Portal\obj\Debug\College Job Portal.csprojResolveAssemblyReference.cache
